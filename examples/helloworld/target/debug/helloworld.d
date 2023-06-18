@@ -1,0 +1,1 @@
+/home/harry/Documents/projects/logger/examples/helloworld/target/debug/helloworld: /home/harry/Documents/projects/logger/examples/helloworld/src/main.rs /home/harry/Documents/projects/logger/src/lib.rs
